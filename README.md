@@ -3,21 +3,21 @@
 My solutions to the [Rustlings](https://rustlings.rust-lang.org/) exercises.
 
 ## Progress
-- [x] 00_intro
-- [x] 01_variables
-- [x] 02_functions
-- [x] 03_if
-- [x] quiz1
-- [x] 04_primitive_types
-- [x] 05_vecs
-- [x] 06_move_semantics
-- [x] 07_structs
-- [x] 08_enums
-- [x] 09_strings
-- [x] 10_modules
-- [x] 11_hashmaps
-- [x] quiz2
-- [x] 12_options
+- 🦀 00_intro
+- 🦀 01_variables
+- 🦀 02_functions
+- 🦀 03_if
+- 🦀 quiz1
+- 🦀 04_primitive_types
+- 🦀 05_vecs
+- 🦀 06_move_semantics
+- 🦀 07_structs
+- 🦀 08_enums
+- 🦀 09_strings
+- 🦀 10_modules
+- 🦀 11_hashmaps
+- 🦀 quiz2
+- 🦀 12_options
 - [ ] 13_error_handling
 - [ ] 14_generics
 - [ ] 15_traits
