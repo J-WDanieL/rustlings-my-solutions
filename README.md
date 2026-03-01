@@ -18,7 +18,7 @@ My solutions to the [Rustlings](https://rustlings.rust-lang.org/) exercises.
 - 🦀 11_hashmaps
 - 🦀 quiz2
 - 🦀 12_options
-- [ ] 13_error_handling
+- 🦀 13_error_handling
 - [ ] 14_generics
 - [ ] 15_traits
 - [ ] quiz3
