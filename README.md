@@ -20,7 +20,7 @@ My solutions to the [Rustlings](https://rustlings.rust-lang.org/) exercises.
 - 🦀 12_options
 - 🦀 13_error_handling
 - 🦀 14_generics
-- [ ] 15_traits
+- 🦀 15_traits
 - [ ] quiz3
 - [ ] 16_lifetimes
 - [ ] 17_tests
