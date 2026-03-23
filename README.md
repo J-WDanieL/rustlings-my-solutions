@@ -22,7 +22,7 @@ My solutions to the [Rustlings](https://rustlings.rust-lang.org/) exercises.
 - 🦀 14_generics
 - 🦀 15_traits
 - 🦀 quiz3
-- [ ] 16_lifetimes
+- 🦀 16_lifetimes
 - [ ] 17_tests
 - [ ] 18_iterators
 - [ ] 19_smart_pointers
